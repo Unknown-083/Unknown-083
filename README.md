@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on Developement
-- 📫 How to reach me: LindkedIn -   
+- 📫 How to reach me: LindkedIn - https://www.linkedin.com/in/kunal-kumar-maurya-7750511a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He
 
 <!---
